@@ -1,3 +1,6 @@
 # Edgefall Studios
 
-Software, tools, and apps from my one-person studio in New York.
+Independent software studio based in New York.
+
+I build apps, tools, modules, and side-projects under this name. More
+at [edgefallstudios.com](https://edgefallstudios.com).
